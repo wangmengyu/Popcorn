@@ -24,6 +24,8 @@ https://sirbeethoven.github.io/HBL/
 
 http://107.170.0.56/
 
+http://hbl.cucco.de/ and http://hbl.cucco.de/test/
+
 http://www.wiiubru.com/
 
 https://89d01e08cb18a765aef9bf5b99f594b468b7a779.googledrive.com/host/0B584Wjf2SahyajhiQ3p5cllxOFk/
