@@ -16,6 +16,8 @@ Install the Loadiine Nightlies: https://github.com/dimok789/loadiine_gx2/release
 
 # To set up your own server on GitHub:
 
+If you only want to use the use MP4 Exploits (PHP doesn't work with this):
+
 1. This Git uses payloads from https://gbatemp.net/threads/5-5-1-5-4-0-5-3-2-self-hosting-package-everything-in-one-zip-file.424679/
 2. Hint - Make a gh-pages branch https://pages.github.com/
 
