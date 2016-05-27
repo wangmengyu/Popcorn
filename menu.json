@@ -7,13 +7,13 @@
 		{
 			"id": "551",
 			"title": "WebExploits for 5.5.1",
-			"description": "Version 1.3",
+			"description": "Version 1.4",
 			"icon": "flag",
 			"items": [
 				{
 					"id": "551-php",
-					"title": "PHP WebExploits for 5.5.1",
-					"description": "Version 1.3 - PHP code by Cybernatus (loadiine.ovh)",
+					"title": "PHP Exploits",
+					"description": "Version 1.4 - PHP code by Cybernatus (loadiine.ovh)",
 					"icon": "flag",
 					"items": [
 						{
@@ -23,7 +23,7 @@
 							"url": "hbl/index.php"
 						},
 						{
-							"title": "Loadiine Nightly",
+							"title": "Loadiine Nightlies",
 							"description": "Should only need to launch once",
 							"icon": "gamepad",
 							"url": "loadiinegx2/index.php"
@@ -35,8 +35,8 @@
 							"url": "kexploit/loadindex.php"
 						},
 						{
-							"title": "Non-Loadiine Exploit ",
-							"description": "Run before running links above if they fail. Use for dumpiine. (kexploit31)",
+							"title": "Non-Loadiine Exploit",
+							"description": "Run before running links above if they fail. (kexploit31)",
 							"icon": "hashtag",
 							"url": "kexploit/nonindex.php"
 						},
@@ -47,54 +47,54 @@
 							"url": "cafiine/index.php"
 						},
 						{
-							"title": "Dumpiine",
-							"description": "Part 1 of 2 for game dumping (Use Loadiine Exploit)",
-							"icon": "download",
-							"url": "dumpiine/index.php"
+							"title": "SDCafiine",
+							"description": "Cheat Engine (Use Non-Loadiine Exploit)",
+							"icon": "coffee",
+							"url": "sdcafiine/index.php"
 						}
 					]
 				},
 				{
 					"id": "551-mp4",
-					"title": "MP4 WebExploits for 5.5.1",
-					"description": "Version 1.3",
+					"title": "MP4 Exploits",
+					"description": "Version 1.4",
 					"icon": "flag",
 					"items": [
 						{
 							"title": "Homebrew Launcher",
 							"description": "Should only need to launch once",
 							"icon": "bars",
-							"url": "hbl/551hbl.mp4"
+							"url": ""
 						},
 						{
-							"title": "Loadiine Nightly",
+							"title": "Loadiine Nightlies",
 							"description": "Should only need to launch once",
 							"icon": "gamepad",
-							"url": "loadiinegx2/551loadiine.mp4"
+							"url": ""
 						},
 						{
 							"title": "Loadiine Exploit",
 							"description": "(kexploit10)",
 							"icon": "hashtag",
-							"url": "kexploit/551kexploit10.mp4"
+							"url": ""
 						},
 						{
 							"title": "Non-Loadiine Exploit",
-							"description": "Run before running links above if they fail. Use for dumpiine. (kexploit31)",
+							"description": "Run before running links above if they fail. (kexploit31)",
 							"icon": "hashtag",
-							"url": "kexploit/551kexploit31.mp4"
+							"url": ""
 						},
 						{
 							"title": "Cafiine",
 							"description": "Cheat Engine (Use Non-Loadiine Exploit)",
 							"icon": "coffee",
-							"url": "cafiine/cafiine.mp4"
+							"url": ""
 						},
 						{
-							"title": "Dumpiine",
-							"description": "Part 1 of 2 for game dumping (Use Loadiine Exploit)",
-							"icon": "download",
-							"url": "dumpiine/551dumpiine.mp4"
+							"title": "SDCafiine",
+							"description": "Cheat Engine (Use Non-Loadiine Exploit)",
+							"icon": "coffee",
+							"url": ""
 						}
 					]
 				}
@@ -102,89 +102,89 @@
 		},
 		{
 			"id": "540",
-			"title": "WebExploits for 5.4.0",
-			"description": "Version 1.3",
-			"icon": "flag",
-			"items": [
-				{
-					"title": "Homebrew Launcher",
-					"description": "Should only need to run this once. ver 1.2",
-					"icon": "bars",
-					"url": "hbl/540hbl.mp4"
-				},
-				{
-					"title": "Loadiine Nightly",
-					"description": "Should only need to run once. Or run from HBL above. nightly-1c4b32c",
-					"icon": "gamepad",
-					"url": "loadiinegx2/540loadiine.mp4"
-				},
-				{
-					"title": "Standalone Kexploit Loadiine Version (kexploit10)",
-					"description": "",
-					"icon": "hashtag",
-					"url": "kexploit/540kexploit10.mp4"
-				},
-				{
-					"title": "Standalone Kexploit NON Loadiine Version (kexploit31)",
-					"description": "Run before running links above if they fail. Also use for dumpiine",
-					"icon": "hashtag",
-					"url": "kexploit/540kexploit31.mp4"
-				},
-				{
-					"title": "Cafiine",
-					"description": "Cheat Engine (Use nonloadiine kexploit)",
-					"icon": "coffee",
-					"url": "cafiine/540cafiine.mp4"
-				},
-				{
-					"title": "Dumpiine",
-					"description": "Use Loadiine ready kexploi",
-					"icon": "download",
-					"url": "dumpiine/540dumpiine.mp4"
-				}
-			]
-		},
-		{
-			"id": "532",
-			"title": "WebExploits for 5.3.2",
-			"description": "Version 1.3",
+			"title": "Not Supported",
+			"description": "",
 			"icon": "flag",
 			"items": [
 				{
 					"title": "Direct Homebrew launcher -=ver 1.2=-",
 					"description": "Should only need to run this once",
 					"icon": "bars",
-					"url": "hbl/payload532.html"
+					"url": ""
 				},
 				{
-					"title": "Loadiine GX2 v0.3 -=nightly-1c4b32c=-",
+					"title": "Loadiine GX2 v0.3 -=nightly-195aaab=-",
 					"description": "Should only need to run once. Or run from HBL above",
 					"icon": "gamepad",
-					"url": "loadiinegx2/payload532.html"
+					"url": ""
+				},
+				{
+					"title": "Standalone Kexploit Loadiine Version (kexploit10)",
+					"description": "",
+					"icon": "hashtag",
+					"url": ""
+				},
+				{
+					"title": "Standalone Kexploit NON Loadiine Version (kexploit31)",
+					"description": "Run before running links above if they fail. Also use for dumpiine",
+					"icon": "hashtag",
+					"url": ""
+				},
+				{
+					"title": "Cafiine",
+					"description": "Cheat Engine (Use nonloadiine kexploit)",
+					"icon": "coffee",
+					"url": ""
+				},
+				{
+					"title": "SDCafiine",
+					"description": "Cheat Engine (Use nonloadiine kexploit)",
+					"icon": "coffee",
+					"url": ""
+				}
+			]
+		},
+		{
+			"id": "532",
+			"title": "Not Supported",
+			"description": "",
+			"icon": "flag",
+			"items": [
+				{
+					"title": "Direct Homebrew launcher -=ver 1.2=-",
+					"description": "Should only need to run this once",
+					"icon": "bars",
+					"url": ""
+				},
+				{
+					"title": "Loadiine GX2 v0.3 -=nightly-195aaab=-",
+					"description": "Should only need to run once. Or run from HBL above",
+					"icon": "gamepad",
+					"url": ""
 				},
 				{
 					"title": "Standalone Kexploit Loadiine Version (kexploit10)",
 					"description": "Run before running links above if they fail. Also use for dumpiine",
 					"icon": "hashtag",
-					"url": "kexploit/532kex10/payload532.html"
+					"url": ""
 				},
 				{
 					"title": "Standalone Kexploit NON Loadiine Version (kexploit31)",
 					"description": "",
 					"icon": "hashtag",
-					"url": "kexploit/532kex31/payload532.html"
+					"url": ""
 				},
 				{
 					"title": "Cafiine",
 					"description": "Use NON Loadiine kexploit",
 					"icon": "coffee",
-					"url": "cafiine/payload532.html"
+					"url": ""
 				},
 				{
-					"title": "Dumpiine",
-					"description": "Use Loadiine ready kexploit",
-					"icon": "download",
-					"url": "dumpiine/payload532.html"
+					"title": "SDCafiine",
+					"description": "Use NON Loadiine kexploit",
+					"icon": "coffee",
+					"url": ""
 				}
 			]
 		}
