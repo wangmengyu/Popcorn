@@ -15,11 +15,15 @@ Install the Loadiine Nightlies: https://github.com/dimok789/loadiine_gx2/release
 7. Profit! You now will have that payload set as the default URL
 
 # To set up your own server on GitHub:
+If you want to use PHP and MP4 Exploits:
+1. FTP hosting files to a website that supports PHP (ex. 000webhost.com)
 
 If you only want to use the use MP4 Exploits (PHP doesn't work with this):
 
-1. This Git uses payloads from https://gbatemp.net/threads/5-5-1-5-4-0-5-3-2-self-hosting-package-everything-in-one-zip-file.424679/
-2. Hint - Make a gh-pages branch https://pages.github.com/
+1. Download hosting files from https://gbatemp.net/threads/5-5-1-5-4-0-5-3-2-self-hosting-package-everything-in-one-zip-file.424679/
+2. Make a gh-pages branch https://pages.github.com/
+3. Upload hosting files
+4. Your new website will be "https://username.github.io/projectname/
 
 # Other Hosted Sites:
 https://sirbeethoven.github.io/HBL/
