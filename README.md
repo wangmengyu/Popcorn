@@ -39,5 +39,3 @@ http://hbl.cucco.de/ and http://hbl.cucco.de/test/
 http://git.io/wiiuhax
 
 http://www.wiiubru.com/
-
-http://homebrew.pancakeapps.com/
