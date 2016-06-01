@@ -23,7 +23,7 @@ If you only want to use the use MP4 Exploits (PHP doesn't work with this):
 1. Download hosting files from https://gbatemp.net/threads/5-5-1-5-4-0-5-3-2-self-hosting-package-everything-in-one-zip-file.424679/
 2. Make a gh-pages branch https://pages.github.com/
 3. Upload hosting files
-4. Your new website will be "https://username.github.io/projectname/
+4. Your new website will be "https://username.github.io/projectname/"
 
 # Other Hosted Sites:
 https://sirbeethoven.github.io/HBL/
