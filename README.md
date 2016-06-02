@@ -35,6 +35,8 @@ https://sirbeethoven.github.io/HBL/
 
 http://googiehax.xyz/
 
+http://loadiine.ovh/ and http://loadiine.ovh/kafluke/
+
 http://107.170.0.56/
 
 http://hbl.cucco.de/ and http://hbl.cucco.de/test/
