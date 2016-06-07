@@ -27,20 +27,4 @@ Install the Loadiine Nightlies: https://github.com/dimok789/loadiine_gx2/release
 3. Upload hosting files
 4. Your new website will be "https://username.github.io/projectname/"
 
-# Hosted Sites:
-
-http://popcornhax.comuf.com/
-
-http://sirbeethoven.github.io/Popcorn/
-
-http://googiehax.xyz/
-
-http://loadiine.ovh/ and http://loadiine.ovh/kafluke/
-
-http://107.170.0.56/
-
-http://hbl.cucco.de/ and http://hbl.cucco.de/test/
-
-http://git.io/wiiuhax
-
-http://www.wiiubru.com/
+# [Other Hosted Sites](https://gbatemp.net/threads/list-of-web-hosts-for-homebrew-exploit.429943/)
