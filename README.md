@@ -27,11 +27,13 @@ Install the Loadiine Nightlies: https://github.com/dimok789/loadiine_gx2/release
 3. Upload hosting files
 4. Your new website will be "https://username.github.io/projectname/"
 
-# Other Hosted Sites:
+# Hosted Sites:
 
-https://sirbeethoven.github.io/Popcorn/
+http://popcornhax.comuf.com/
 
-https://sirbeethoven.github.io/HBL/
+http://sirbeethoven.github.io/Popcorn/
+
+http://sirbeethoven.github.io/HBL/
 
 http://googiehax.xyz/
 
