@@ -33,8 +33,6 @@ http://popcornhax.comuf.com/
 
 http://sirbeethoven.github.io/Popcorn/
 
-http://sirbeethoven.github.io/HBL/
-
 http://googiehax.xyz/
 
 http://loadiine.ovh/ and http://loadiine.ovh/kafluke/
