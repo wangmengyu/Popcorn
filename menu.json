@@ -13,46 +13,9 @@
 				{
 					"id": "551-php",
 					"title": "PHP Exploits",
-					"description": "Redirects to popcornhax.comuf.com",
+					"description": "Redirects to sirbeethoven.comlu.com",
 					"icon": "flag",
-					"items": [
-						{
-							"title": "Direct Homebrew Launcher",
-							"description": "Should only need to launch once",
-							"icon": "bars",
-							"url": "http://popcornhax.comuf.com/hbl/index.php"
-						},
-						{
-							"title": "Loadiine Nightlies",
-							"description": "Should only need to launch once",
-							"icon": "gamepad",
-							"url": "http://popcornhax.comuf.com/loadiinegx2/index.php"
-						},
-						{
-							"title": "Loadiine Exploit",
-							"description": "(kexploit10)",
-							"icon": "hashtag",
-							"url": "http://popcornhax.comuf.com/kexploit/nonindex.php"
-						},
-						{
-							"title": "Non-Loadiine Exploit",
-							"description": "Run before running links above if they fail. (kexploit31)",
-							"icon": "hashtag",
-							"url": "http://popcornhax.comuf.com/kexploit/nonindex.php"
-						},
-						{
-							"title": "Cafiine",
-							"description": "Cheat Engine (Use Non-Loadiine Exploit)",
-							"icon": "coffee",
-							"url": "http://popcornhax.comuf.com/cafiine/index.php"
-						},
-						{
-							"title": "SDCafiine",
-							"description": "Cheat Engine (Use Non-Loadiine Exploit)",
-							"icon": "coffee",
-							"url": "http://popcornhax.comuf.com/sdcafiine/index.php"
-						}
-					]
+					"url": "http://sirbeethoven.comlu.com/popcorn/index.html"
 				},
 				{
 					"id": "551-mp4",
