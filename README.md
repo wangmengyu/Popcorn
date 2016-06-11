@@ -13,6 +13,7 @@ Install the Loadiine Nightlies: https://github.com/dimok789/loadiine_gx2/release
 5. Run Mii Maker
 6. Go back into the browser
 7. Profit! You now will have that payload set as the default URL
+
 # Differences between the two sites
 **https://sirbeethoven.github.io/Popcorn/**
 - Includes ALL exploits!
@@ -26,6 +27,7 @@ Install the Loadiine Nightlies: https://github.com/dimok789/loadiine_gx2/release
 - Include a better GUI
 - Include an About page
 - Are updated all the time
+
 # To set up your own server:
 **If you want to host PHP and MP4 Exploits:**
 
