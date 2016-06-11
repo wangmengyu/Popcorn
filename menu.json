@@ -12,8 +12,8 @@
 			"items": [
 				{
 					"id": "551-php",
-					"title": "PHP WebExploits for 5.5.1",
-					"description": "PHP code by Cybernatus (loadiine.ovh)",
+					"title": "PHP Exploits",
+					"description": "Redirects to popcornhax.comuf.com",
 					"icon": "flag",
 					"items": [
 						{
@@ -23,32 +23,32 @@
 							"url": "hbl/index.php"
 						},
 						{
-							"title": "Loadiine GX2 v0.3 -=nightly-195aaab=-",
+							"title": "Loadiine Nightlies",
 							"description": "Should only need to launch once",
 							"icon": "gamepad",
 							"url": "loadiinegx2/index.php"
 						},
 						{
-							"title": "Standalone Kexploit Loadiine Version (kexploit10)",
-							"description": "",
+							"title": "Loadiine Exploit",
+							"description": "(kexploit10)",
 							"icon": "hashtag",
 							"url": "kexploit/loadindex.php"
 						},
 						{
-							"title": "Standalone Kexploit NON Loadiine Version (kexploit31)",
-							"description": "Run before running links above if they fail. Also use for dumpiine",
+							"title": "Non-Loadiine Exploit",
+							"description": "Run before running links above if they fail. (kexploit31)",
 							"icon": "hashtag",
 							"url": "kexploit/nonindex.php"
 						},
 						{
 							"title": "Cafiine",
-							"description": "Cheat Engine (Use nonloadiine kexploit)",
+							"description": "Cheat Engine (Use Non-Loadiine Exploit)",
 							"icon": "coffee",
 							"url": "cafiine/index.php"
 						},
 						{
 							"title": "SDCafiine",
-							"description": "Cheat Engine (Use nonloadiine kexploit)",
+							"description": "Cheat Engine (Use Non-Loadiine Exploit)",
 							"icon": "coffee",
 							"url": "sdcafiine/index.php"
 						}
@@ -56,7 +56,7 @@
 				},
 				{
 					"id": "551-mp4",
-					"title": "MP4 WebExploits for 5.5.1",
+					"title": "MP4 Exploits",
 					"description": "",
 					"icon": "flag",
 					"items": [
@@ -67,32 +67,32 @@
 							"url": "hbl/551hbl.mp4"
 						},
 						{
-							"title": "Loadiine GX2 v0.3 -=nightly-195aaab=-",
+							"title": "Loadiine Nightlies",
 							"description": "Should only need to launch once",
 							"icon": "gamepad",
 							"url": "loadiinegx2/551loadiine.mp4"
 						},
 						{
-							"title": "Standalone Kexploit Loadiine Version (kexploit10)",
-							"description": "",
+							"title": "Loadiine Exploit",
+							"description": "(kexploit10)",
 							"icon": "hashtag",
 							"url": "kexploit/551kexploit10.mp4"
 						},
 						{
-							"title": "Standalone Kexploit NON Loadiine Version (kexploit31)",
-							"description": "Run before running links above if they fail. Also use for dumpiine",
+							"title": "Non-Loadiine Exploit",
+							"description": "Run before running links above if they fail. (kexploit31)",
 							"icon": "hashtag",
 							"url": "kexploit/551kexploit31.mp4"
 						},
 						{
 							"title": "Cafiine",
-							"description": "Cheat Engine (Use nonloadiine kexploit)",
+							"description": "Cheat Engine (Use Non-Loadiine Exploit)",
 							"icon": "coffee",
 							"url": "cafiine/cafiine.mp4"
 						},
 						{
 							"title": "SDCafiine",
-							"description": "Cheat Engine (Use nonloadiine kexploit)",
+							"description": "Cheat Engine (Use Non-Loadiine Exploit)",
 							"icon": "coffee",
 							"url": "sdcafiine/sdcafiine550.mp4"
 						}
@@ -119,26 +119,26 @@
 					"url": "loadiinegx2/540loadiine.mp4"
 				},
 				{
-					"title": "Standalone Kexploit Loadiine Version (kexploit10)",
-					"description": "",
+					"title": "Loadiine Exploit",
+					"description": "(kexploit10)",
 					"icon": "hashtag",
 					"url": "kexploit/540kexploit10.mp4"
 				},
 				{
-					"title": "Standalone Kexploit NON Loadiine Version (kexploit31)",
-					"description": "Run before running links above if they fail. Also use for dumpiine",
+					"title": "Non-Loadiine Exploit",
+					"description": "Run before running links above if they fail. (kexploit31)",
 					"icon": "hashtag",
 					"url": "kexploit/540kexploit31.mp4"
 				},
 				{
 					"title": "Cafiine",
-					"description": "Cheat Engine (Use nonloadiine kexploit)",
+					"description": "Cheat Engine (Use Non-Loadiine Exploit)",
 					"icon": "coffee",
 					"url": "cafiine/540cafiine.mp4"
 				},
 				{
 					"title": "SDCafiine",
-					"description": "Cheat Engine (Use nonloadiine kexploit)",
+					"description": "Cheat Engine (Use Non-Loadiine Exploit)",
 					"icon": "coffee",
 					"url": "sdcafiine/sdcafiine540.mp4"
 				}
@@ -163,26 +163,26 @@
 					"url": "loadiinegx2/payload532.html"
 				},
 				{
-					"title": "Standalone Kexploit Loadiine Version (kexploit10)",
-					"description": "Run before running links above if they fail. Also use for dumpiine",
+					"title": "Loadiine Exploit",
+					"description": "Run before running links above if they fail. (kexploit10)",
 					"icon": "hashtag",
 					"url": "kexploit/532kex10/payload532.html"
 				},
 				{
-					"title": "Standalone Kexploit NON Loadiine Version (kexploit31)",
-					"description": "",
+					"title": "Non-Loadiine Exploit",
+					"description": "(kexploit31)",
 					"icon": "hashtag",
 					"url": "kexploit/532kex31/payload532.html"
 				},
 				{
 					"title": "Cafiine",
-					"description": "Use NON Loadiine kexploit",
+					"description": "Use Non-Loadiine Exploit",
 					"icon": "coffee",
 					"url": "cafiine/payload532.html"
 				},
 				{
 					"title": "SDCafiine",
-					"description": "Use NON Loadiine kexploit",
+					"description": "Use Non-Loadiine Exploit",
 					"icon": "coffee",
 					"url": "sdcafiine/payload532.html"
 				}
