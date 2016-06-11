@@ -36,12 +36,6 @@
 							"url": "loadiinegx2/551loadiine.mp4"
 						},
 						{
-							"title": "Loadiine Exploit",
-							"description": "(kexploit10)",
-							"icon": "hashtag",
-							"url": "kexploit/551kexploit10.mp4"
-						},
-						{
 							"title": "Non-Loadiine Exploit",
 							"description": "Run before running links above if they fail. (kexploit31)",
 							"icon": "hashtag",
@@ -82,12 +76,6 @@
 					"url": "loadiinegx2/540loadiine.mp4"
 				},
 				{
-					"title": "Loadiine Exploit",
-					"description": "(kexploit10)",
-					"icon": "hashtag",
-					"url": "kexploit/540kexploit10.mp4"
-				},
-				{
 					"title": "Non-Loadiine Exploit",
 					"description": "Run before running links above if they fail. (kexploit31)",
 					"icon": "hashtag",
@@ -124,12 +112,6 @@
 					"description": "Should only need to run once. Or run from HBL above",
 					"icon": "gamepad",
 					"url": "loadiinegx2/payload532.html"
-				},
-				{
-					"title": "Loadiine Exploit",
-					"description": "Run before running links above if they fail. (kexploit10)",
-					"icon": "hashtag",
-					"url": "kexploit/532kex10/payload532.html"
 				},
 				{
 					"title": "Non-Loadiine Exploit",
