@@ -150,6 +150,39 @@
 					"url": "sdcafiine/payload532.html"
 				}
 			]
+		},
+		{
+		
+			"id": "About",
+			"title": "About",
+			"description": "",
+			"icon": "flag",
+			"items": [
+		     		{
+						"title": "Instructions",
+						"description": "How to set up everything!",
+						"icon": "flag",
+						"url": "more/instructions.html"
+			   		},
+					{
+						"title": "GitHub",
+						"description": "Learn how to host yourself!",
+						"icon": "home",
+						"url": "https://github.com/SirBeethoven/Popcorn"
+					},
+					{
+						"title": "Hosting Forum",
+						"description": "The source of this website!",
+						"icon": "bars",
+						"url": "https://gbatemp.net/threads/5-5-1-5-4-0-5-3-2-self-hosting-package-everything-in-one-zip-file.424679/"
+					},
+					{
+						"title": "Credits",
+						"description": "The people who made this possible!",
+						"icon": "bars",
+						"url": "more/credits.html"
+					}
+			]
 		}
 	]
 }
