@@ -16,14 +16,19 @@ Install the Loadiine Nightlies: https://github.com/dimok789/loadiine_gx2/release
 
 # Differences between the two sites
 **https://sirbeethoven.github.io/Popcorn/**
+
 - Includes ALL exploits!
 - Hosted 98% on GitHub
+
 **http://popcornhax.comuf.com/**
+
 - More of a personal site
 - Only supports 5.5.1 PHP
 - Includes a better name
 - Hosted 100% on 000webhost
+
 **Both**
+
 - Include a better GUI
 - Include an About page
 - Are updated all the time
