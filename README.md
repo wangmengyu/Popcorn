@@ -1,5 +1,7 @@
 # Popcorn - WiiU WebExploits
-Boot into the Homebrew Launcher, LoadiineGX2, and other payloads here: **http://popcornhax.comuf.com/** or **https://sirbeethoven.github.io/Popcorn/**
+Boot into the Homebrew Launcher, LoadiineGX2, and other payloads:
+**https://sirbeethoven.github.io/Popcorn/**  
+**http://popcornhax.comuf.com/**  
 
 Install the Homebrew Launcher: https://github.com/dimok789/homebrew_launcher/releases
 
@@ -19,11 +21,12 @@ Install the Loadiine Nightlies: https://github.com/dimok789/loadiine_gx2/release
 
 - Includes ALL exploits!
 - Hosted 98% on GitHub
+- Has to redirect to sirbeethoven.comlu.com/popcorn/index.html for 5.5.1 PHP exploits
 
 **http://popcornhax.comuf.com/**
 
 - More of a personal site
-- Only supports 5.5.1 PHP
+- Only supports 5.5.1 PHP exploits
 - Includes a better name
 - Hosted 100% on 000webhost
 
