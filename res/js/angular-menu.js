@@ -129,6 +129,7 @@ var JsonMenu = function(){
 							+"<div class=\"item-media\">"
 								+"<img class=\"image\" ng-if=\"item.image\" ng-src=\"{{item.image}}\"/>"
 								+"<i class=\"icon fa\" ng-if=\"item.icon\" ng-class=\"'fa-'+item.icon\"></i>"
+								+"<i class=\"icon gh\" ng-if=\"item.icon\" ng-class=\"'gh-'+item.icon\"></i>"
 							+"</div>"
 							+"<div class=\"item-data\">"
 								+"<h4 class=\"item-title\" ng-if=\"item.title\">{{item.title}}</h4>"
