@@ -1,7 +1,6 @@
 # Popcorn - WiiU WebExploits
 Boot into the Homebrew Launcher, LoadiineGX2, and other payloads:  
 **https://sirbeethoven.github.io/Popcorn/**  
-**http://popcornhax.honor.es/**  
 
 Install the Homebrew Launcher: https://github.com/dimok789/homebrew_launcher/releases
 
