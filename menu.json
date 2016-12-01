@@ -5,68 +5,6 @@
 	"defaultId": "",
 	"items": [
 		{
-			"id": "551",
-			"title": "WebExploits for 5.5.1",
-			"description": "Version 2.1",
-			"icon": "flag",
-			"items": [
-				{
-					"id": "551-php",
-					"title": "PHP WebExploits for 5.5.1",
-					"description": "Version 2.1 - PHP code by Cybernatus",
-					"icon": "flag",
-					"items": [
-						{
-							"title": "Homebrew Launcher",
-							"description": "Run Homebrew apps from your SD card.",
-							"icon": "bars",
-							"url": "hbl/index.php"
-						},
-						{
-							"title": "Loadiine GX2",
-							"description": "Backup Game Loader: Run Games off your SD card.",
-							"icon": "gamepad",
-							"url": "loadiinegx2/index.php"
-						},
-						{
-							"title": "Standalone Kexploit Loadiine Version (kexploit10)",
-							"description": "Run this before launching Homebrew launcher or Loadiine GX2 if any of them freezes your console.",
-							"icon": "hashtag",
-							"url": "kexploit/loadindex.php"
-						},
-						{
-							"title": "Standalone Kexploit NON Loadiine Version (kexploit31)",
-							"description": "Run this before launching Cafiine.",
-							"icon": "hashtag",
-							"url": "kexploit/nonindex.php"
-						},
-						{
-							"title": "AIO Kexploit by Nexocube",
-							"description": "Alternative kexploit: Use this if the above 2 links fail.",
-							"icon": "hashtag",
-							"url": "kexploit/aioindex.php"
-						},
-						{
-							"title": "Cafiine",
-							"description": "Cheat Engine (Use nonloadiine kexploit)",
-							"icon": "coffee",
-							"url": "cafiine/index.php"
-						},
-						{
-							"title": "SDCafiine",
-							"description": "Cheat Engine (Use nonloadiine kexploit)",
-							"icon": "coffee",
-							"url": "sdcafiine/index.php"
-						},
-						{
-							"title": "Remove update",
-							"description": "Remove incomplete updates from the Wii U.",
-							"icon": "removeupdate",
-							"url": "removeupdate/index.php"
-						}
-					]
-				},
-				{
 					"id": "551-mp4",
 					"title": "MP4 WebExploits for 5.5.1",
 					"description": "Version 2.1",
@@ -121,8 +59,6 @@
 							"url": "removeupdate/551remove.mp4"
 						}
 					]
-				}
-			]
 		},
 		{
 			"id": "540",
