@@ -18,8 +18,7 @@ Install the Loadiine Nightlies: https://github.com/dimok789/loadiine_gx2/release
 # What this site has:  
 
 - Includes ALL exploits!
-- Hosted 98% on GitHub
-- Has to redirect to sirbeethoven.comlu.com/popcorn/index.html for 5.5.1 PHP exploits
+- Hosted 100% on GitHub
 
 # To set up your own server:
 **If you want to host PHP and MP4 Exploits:**
