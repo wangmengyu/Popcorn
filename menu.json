@@ -115,12 +115,6 @@
 					"url": "removeupdate/540remove.mp4"
 				}
 			]
-		},
-		{
-			"title": "Source",
-			"description": "",
-			"icon": "bars",
-			"url": "https://github.com/SirBeethoven/Popcorn",
 		}
 	]
 }
